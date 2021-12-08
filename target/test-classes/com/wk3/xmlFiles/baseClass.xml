@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="commonClassTestSuite" parallel="false">
+	<test name="TestLocators">
+		<classes>
+			<class name="com.common.baseClass" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
